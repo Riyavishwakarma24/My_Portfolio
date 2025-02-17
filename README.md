@@ -4,18 +4,18 @@ Welcome to my portfolio repository! This project showcases my work, skills, and 
 
 Check out my portfolio live at: Your Portfolio Link
 
-#✨ Features
+# Features✨
 
 Fully responsive design
 Smooth animations and transitions
 Interactive UI with HTML, CSS, and JavaScript
 Showcases my projects, skills, and contact details
-#🛠 Technologies Used
+# Technologies Used🛠
 Frontend: HTML, CSS, JavaScript
-#🚀 Getting Started
+# Getting Started🚀
 Clone this repository:
 Open index.html in your browser.
-#📩 Contact Me
+#Contact Me📩 
 
 #Email:
 riiyavishwakarma24@gmail.com
