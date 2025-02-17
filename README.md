@@ -1,8 +1,8 @@
 # My_Portfolio
 Welcome to my portfolio repository! This project showcases my work, skills, and experiences in web development and software engineering.
-#🌐 Live Preview
+# Live Preview🌐
 
-Check out my portfolio live at: Your Portfolio Link
+Check out my portfolio live at:
 
 # Features✨
 
