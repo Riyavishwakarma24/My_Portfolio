@@ -17,8 +17,8 @@ Clone this repository:
 Open index.html in your browser.
 #Contact Me📩 
 
-#Email:
+*Email:
 riiyavishwakarma24@gmail.com
 
-#LinkedIn:
+*LinkedIn:
 https://www.linkedin.com/in/riya-vishwakarma-811585322
