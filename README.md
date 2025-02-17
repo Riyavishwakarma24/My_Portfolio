@@ -2,7 +2,7 @@
 Welcome to my portfolio repository! This project showcases my work, skills, and experiences in web development and software engineering.
 # Live Preview🌐
 
-Check out my portfolio live at:
+Check out my portfolio live at: https://riyavishwakarma24.github.io/My_Portfolio/
 
 # Features✨
 
